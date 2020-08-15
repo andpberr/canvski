@@ -1,4 +1,4 @@
-import foo from './helpers';
+import foo from './helpers.js';
 
 function draw() {
     let ctx = getCanvasContext();

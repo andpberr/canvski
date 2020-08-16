@@ -1,5 +1,7 @@
 import foo from './helpers.js';
 
+draw();
+
 function draw() {
     let ctx = getCanvasContext();
     fillBackground(ctx);
